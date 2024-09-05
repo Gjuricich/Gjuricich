@@ -5,6 +5,7 @@ I completed my career as a University Technician in Programming at UTN Argentina
 
 
 ## 🚀 Featured Projects
+-  💻 Home Banking ([HexaBank](https://github.com/Gjuricich/hexa-bank)
 
 -  🎁  eCommerce ([e-Market](https://github.com/Gjuricich/e-market))
 
